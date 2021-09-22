@@ -3,8 +3,9 @@ inst/doc/.*[.]dll
 inst/doc/.*[.]d
 inst/doc/.*[.]o
 inst/doc/.*[.]rc
-vignettes/jss.bst
-vignettes/jss.cls
+vignettes/.*[.]tex
+vignettes/.*[.]log
+vignettes/.*[.]bbl
 ^Rplots.pdf$
 work
 src/.*[.]dll
